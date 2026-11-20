@@ -1,0 +1,11 @@
+{
+    "name": "Donasis",
+    "alias": "Donasis",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Donasis\\Providers\\DonasisServiceProvider"
+    ],
+    "files": []
+}

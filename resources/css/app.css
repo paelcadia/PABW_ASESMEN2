@@ -1,0 +1,19 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+body {
+    background: #f4f7fb;
+}
+
+.navbar {
+    background: #173b63;
+}
+
+.card {
+    border: 0;
+    box-shadow: 0 6px 18px rgba(23, 59, 99, 0.08);
+}
+
+.table td,
+.table th {
+    vertical-align: middle;
+}
